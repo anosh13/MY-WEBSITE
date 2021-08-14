@@ -1,0 +1,36 @@
+text-align:center;
+  background:linear-gradient(
+  
+  #E1BEE7 0%,#90CAF9 100%);
+  background-repeat:no-repeat
+  
+}
+img
+{
+  width:300px;
+  animation:1245
+} 
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:35px;
+}
+
+p{
+  font-size:25px;
+  color:purple;
+  
+  
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.profile{border-radius:50%;}
+
+.menu{
+    position: fixed;
+    margin-top: 0px;
+    z-index: 10;
+    background:white;
+}
